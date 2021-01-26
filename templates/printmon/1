@@ -1,0 +1,5 @@
+{% extends "printmon/base.html" %}
+{% block body %}
+
+{% endblock body %}
+
